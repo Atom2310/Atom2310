@@ -1,100 +1,185 @@
 <div align="center">
 
- █████╗ ████████╗ ██████╗ ███╗   ███╗
-██╔══██╗╚══██╔══╝██╔═══██╗████╗ ████║
-███████║   ██║   ██║   ██║██╔████╔██║
-██╔══██║   ██║   ██║   ██║██║╚██╔╝██║
-██║  ██║   ██║   ╚██████╔╝██║ ╚═╝ ██║
-╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
-C++ · Python · Cybersecurity
+# `A T O M`
 
+### `C++` · `Python` · `Cybersecurity`
 
+<br>
 
+```text
+        █████╗ ████████╗ ██████╗ ███╗   ███╗
+       ██╔══██╗╚══██╔══╝██╔═══██╗████╗ ████║
+       ███████║   ██║   ██║   ██║██╔████╔██║
+       ██╔══██║   ██║   ██║   ██║██║╚██╔╝██║
+       ██║  ██║   ██║   ╚██████╔╝██║ ╚═╝ ██║
+       ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
+```
 
-
-
+**`BUILD` · `BREAK` · `LEARN` · `REPEAT`**
 
 </div>
 
-About me
+---
 
-I'm a student interested in software development and cybersecurity.
+## `> whoami`
 
-Currently working with C++ and Python, practicing algorithms and learning how modern web applications work from a security perspective.
+```text
+Name        : Fenzill
+Focus       : Software Development + Cybersecurity
+Languages   : C++ / Python
+Environment : Linux / Windows
+Interests   : Web Security / Algorithms / Systems
+```
 
-Programming      → C++ / Python
-Web               → HTML / CSS
-Security          → Web Security / Pentesting
-Tools             → Git / Linux / Burp Suite
-Practice          → LeetCode / Hack The Box
-What I'm working on
-Building projects with C++
-Improving my Python
-Solving LeetCode problems
-Learning Web Application Security
-Practicing on Hack The Box
-Learning Git and open-source workflows
-Tech Stack
+I'm a student learning software development and cybersecurity.
+
+Currently focused on improving my **C++**, building projects, solving algorithmic problems and learning **web application security**.
+
+---
+
+## `> skills`
 
 <div align="center">
 
-
-
-
-
-
-
-
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=00AEEF)
+![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=00AEEF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=00AEEF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge\&logo=linux\&logoColor=00AEEF)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=00AEEF)
 
 </div>
 
-Cybersecurity
-Web Requests
+---
+
+## `> cybersecurity`
+
+```text
+[ WEB ]
+
 HTTP
-Burp Suite
+Web Requests
+Web Fuzzing
 SQL Injection
 Command Injection
 File Inclusion
 Server-Side Attacks
-Web Fuzzing
 JavaScript
+Burp Suite
+
+[ SYSTEMS ]
+
 Linux
+Networking
 Traffic Analysis
+Information Gathering
+```
 
-Currently focusing on understanding how web applications work and how they can be secured.
+Currently learning **web penetration testing** and understanding how applications work under the hood.
 
-Projects
-C++ Task Manager
+---
 
-Console application for creating, listing, deleting and exporting tasks.
+## `> coding`
 
-Python Telegram Bot
-
-A Telegram bot built with Python for a small product catalog and order system.
-
-Downloads Manager
-
-Python utility for automatically organizing files in the Downloads directory.
-
-Coding Journey
+```cpp
 #include <iostream>
 
 int main()
 {
-    while (learning)
+    while (true)
     {
+        learn();
         code();
-        practice();
-        build();
-        repeat();
+        debug();
+        improve();
     }
 }
+```
+
+---
+
+## `> projects`
+
+### `01` — C++ Task Manager
+
+A console application for managing tasks.
+
+**Features**
+
+* Add tasks
+* List tasks
+* Delete tasks
+* Export tasks
+
+---
+
+### `02` — Python Telegram Bot
+
+A Telegram bot built with Python.
+
+**Features**
+
+* Product catalog
+* Information sections
+* Orders
+* Admin functionality
+
+---
+
+### `03` — Downloads Manager
+
+A Python utility that monitors the Downloads folder and organizes files automatically.
+
+---
+
+## `> problem solving`
+
+I use algorithmic problems to improve my programming fundamentals.
+
+```text
+Data Structures
+    ↓
+Algorithms
+    ↓
+Problem Solving
+    ↓
+Better Code
+```
+
+Currently practicing **C++** and working through LeetCode problems.
+
+---
+
+## `> current mission`
+
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│   [✓] Learn C++                            │
+│   [✓] Learn Python                         │
+│   [✓] Start LeetCode                       │
+│   [✓] Start Cybersecurity                  │
+│                                            │
+│   [ ] Build larger C++ projects            │
+│   [ ] Improve algorithms & data structures │
+│   [ ] Master Web Pentesting                │
+│   [ ] Contribute to Open Source            │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+---
 
 <div align="center">
 
-Keep learning. Keep building.
+### `ATOM`
 
-01001000 01101001
+**Software · Security · Curiosity**
+
+<br>
+
+`01000001 01010100 01001111 01001101`
 
 </div>
+
