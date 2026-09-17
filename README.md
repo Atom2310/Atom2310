@@ -1,111 +1,95 @@
-# 👋 Hi, I'm Fenzill
+<div align="center">
 
-### 💻 Junior Developer | 🔐 Cybersecurity Enthusiast
+Fenzill
+C++ · Python · Cybersecurity
 
-I’m a student and aspiring software developer focused on **C++**, **Python**, and **Web Security**.
 
-Currently learning, building projects, solving problems, and exploring cybersecurity.
 
----
 
-## 🧠 Currently Learning
 
-```text
-C++              ███████████████░░░░░
-Python           ████████████░░░░░░░░
-Web Development  ███████████░░░░░░░░░
-Cybersecurity    █████████████░░░░░░░
-Algorithms       ██████████░░░░░░░░░░
-```
 
-## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,linux,vscode" />
-</p>
+</div>
 
----
+About me
 
-## 🔐 Cybersecurity
+I'm a student interested in software development and cybersecurity.
 
-Currently exploring:
+Currently working with C++ and Python, practicing algorithms and learning how modern web applications work from a security perspective.
 
-* 🌐 Web Application Security
-* 🕵️ Web Pentesting
-* 🧪 Burp Suite
-* 💉 SQL Injection
-* ⚡ Command Injection
-* 📂 File Inclusion
-* 🔎 Information Gathering
-* 🐧 Linux
-* 🧠 CTFs & Hack The Box
+Programming      → C++ / Python
+Web               → HTML / CSS
+Security          → Web Security / Pentesting
+Tools             → Git / Linux / Burp Suite
+Practice          → LeetCode / Hack The Box
+What I'm working on
+Building projects with C++
+Improving my Python
+Solving LeetCode problems
+Learning Web Application Security
+Practicing on Hack The Box
+Learning Git and open-source workflows
+Tech Stack
 
----
+<div align="center">
 
-## 💻 Coding
 
-I regularly practice algorithms and data structures on **LeetCode** and build small projects to improve my programming skills.
 
-```cpp
-while (learning)
+
+
+
+
+
+
+
+</div>
+
+Cybersecurity
+Web Requests
+HTTP
+Burp Suite
+SQL Injection
+Command Injection
+File Inclusion
+Server-Side Attacks
+Web Fuzzing
+JavaScript
+Linux
+Traffic Analysis
+
+Currently focusing on understanding how web applications work and how they can be secured.
+
+Projects
+C++ Task Manager
+
+Console application for creating, listing, deleting and exporting tasks.
+
+Python Telegram Bot
+
+A Telegram bot built with Python for a small product catalog and order system.
+
+Downloads Manager
+
+Python utility for automatically organizing files in the Downloads directory.
+
+Coding Journey
+#include <iostream>
+
+int main()
 {
-    code();
-    break_things();
-    debug();
-    learn();
+    while (learning)
+    {
+        code();
+        practice();
+        build();
+        repeat();
+    }
 }
-```
 
----
+<div align="center">
 
-## 🚀 Projects
+Keep learning. Keep building.
 
-### 📝 C++ Task Manager
+01001000 01101001
 
-A console-based task management application with adding, deleting, listing and exporting tasks.
-
-### 🤖 Python Telegram Bot
-
-A Telegram bot with product catalog, information pages and order functionality.
-
-### 👀 Downloads Manager
-
-A Python utility that monitors the Downloads folder and automatically organizes files.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FenzillGG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenzillGG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
-</p>
-
----
-
-## 📈 Contribution
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FenzillGG&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-## 🎯 Goals
-
-```text
-[✓] Learn C++
-[✓] Learn Python
-[✓] Start LeetCode
-[✓] Start Cybersecurity
-[ ] Become a strong C++ developer
-[ ] Master Web Pentesting
-[ ] Build serious projects
-[ ] Contribute to Open Source
-```
-
----
-
-<p align="center">
-  <b>⚡ Code. Learn. Break. Fix. Repeat.</b>
-</p>
+</div>
