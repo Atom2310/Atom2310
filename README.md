@@ -24,9 +24,9 @@
 ## `> whoami`
 
 ```text
-Name        : Fenzill
+Name        : Roman
 Focus       : Software Development + Cybersecurity
-Languages   : C++ / Python
+Languages   : C++ / C# / Python
 Environment : Linux / Windows
 Interests   : Web Security / Algorithms / Systems
 ```
