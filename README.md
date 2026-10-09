@@ -26,7 +26,7 @@
 Name        : Roman
 Focus       : Software Development + Cybersecurity
 Languages   : C++ / C# / Python
-Environment : Linux / Windows
+Environment : Windows / Linux
 Interests   : Web Security / Algorithms / Systems
 ```
 
