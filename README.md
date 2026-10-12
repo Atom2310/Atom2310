@@ -66,6 +66,9 @@ File Inclusion
 Server-Side Attacks
 JavaScript
 Burp Suite
+Veb Tampering
+IDOR
+XSS
 
 [ SYSTEMS ]
 
