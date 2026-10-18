@@ -113,12 +113,13 @@ A console application for managing tasks.
 * List tasks
 * Delete tasks
 * Export tasks
+* GUI (Developing)
 
 ---
 
 ### `02` — Python Telegram Bot
 
-A Telegram bot built with Python.
+A Telegram bot built with Python. That can be used for selling items in telegram
 
 **Features**
 
@@ -131,7 +132,7 @@ A Telegram bot built with Python.
 
 ### `03` — Downloads Manager
 
-A Python utility that monitors the Downloads folder and organizes files automatically.
+A Python utility that monitors the Downloads folder and organizes files automatically. Helps to organise most of the downloads
 
 ---
 
